@@ -7,6 +7,8 @@ public class Principal {
 		for(;;) {
 			System.out.println("Número actual: " + i);
 			i++;
+			if(i == 50)
+				System.out.println("Esto no acaba...");
 		}
 	}
 
