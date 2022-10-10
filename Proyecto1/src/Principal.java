@@ -7,6 +7,7 @@ public class Principal {
 		for(;;) {
 			System.out.println("Número " + i);
 			i++;
+			System.out.println("Número " + i);
 		}
 	}
 
