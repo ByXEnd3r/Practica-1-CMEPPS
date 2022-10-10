@@ -5,7 +5,7 @@ public class Principal {
 		System.out.println("Hola CMEPPS!!!");
 		int i = 0;
 		for(;;) {
-			System.out.println(i);
+			System.out.println("Número " + i);
 			i++;
 		}
 	}
